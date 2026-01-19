@@ -25,3 +25,4 @@ Analyze Rockstar Games’ development lifecycle to understand scaling trends, in
 - Cleaned dataset
 - Lifecycle analysis visualization
 - Cost vs revenue scaling visualization
+
